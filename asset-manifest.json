@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-trippy.go/static/css/main.7c61fdf4.css",
+    "main.js": "/react-trippy.go/static/js/main.3b3a03e9.js",
+    "static/media/gangtokImg2.jpg": "/react-trippy.go/static/media/gangtokImg2.7fd8dcb18acfa7ce68b5.jpg",
+    "static/media/shimlaImg2.jpg": "/react-trippy.go/static/media/shimlaImg2.a1949afffa645db7cc6f.jpg",
+    "static/media/gangtokImg1.jpg": "/react-trippy.go/static/media/gangtokImg1.0903945982121ce01e88.jpg",
+    "static/media/shimlaImg1.jpg": "/react-trippy.go/static/media/shimlaImg1.0902538d0d8f73b7ee9c.jpg",
+    "static/media/Trip1.jpg": "/react-trippy.go/static/media/Trip1.69fdf2113faec33aa615.jpg",
+    "static/media/gulmargImg2.jpg": "/react-trippy.go/static/media/gulmargImg2.dafcd0647a043788fe29.jpg",
+    "static/media/Trip3.jpg": "/react-trippy.go/static/media/Trip3.d6590ca4af007eab788e.jpg",
+    "static/media/LakshdweepImg2.jpg": "/react-trippy.go/static/media/LakshdweepImg2.dfbb85396116802b00c2.jpg",
+    "static/media/homeImg2.jpg": "/react-trippy.go/static/media/homeImg2.cac7ce1eb515c8ee095f.jpg",
+    "static/media/services.jpg": "/react-trippy.go/static/media/services.dc8c65a9f92958e8e351.jpg",
+    "static/media/rannofkutchImg1.jpg": "/react-trippy.go/static/media/rannofkutchImg1.0e4dd1269553c61f6146.jpg",
+    "static/media/Trip2.jpg": "/react-trippy.go/static/media/Trip2.140495df2eb3d03953c8.jpg",
+    "static/media/LakshdweepImg1.jpg": "/react-trippy.go/static/media/LakshdweepImg1.1885b3c31e7440511e7e.jpg",
+    "static/media/contact.jpg": "/react-trippy.go/static/media/contact.014b02f2f71b7449e794.jpg",
+    "static/media/gulmargImg1.jpg": "/react-trippy.go/static/media/gulmargImg1.c467baee0d68895a4942.jpg",
+    "static/media/abtImg.jpg": "/react-trippy.go/static/media/abtImg.bae69b72e7d71a947894.jpg",
+    "static/media/rannofkutchImg2.jpg": "/react-trippy.go/static/media/rannofkutchImg2.220efd852616b1176c4a.jpg",
+    "index.html": "/react-trippy.go/index.html",
+    "main.7c61fdf4.css.map": "/react-trippy.go/static/css/main.7c61fdf4.css.map",
+    "main.3b3a03e9.js.map": "/react-trippy.go/static/js/main.3b3a03e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c61fdf4.css",
+    "static/js/main.3b3a03e9.js"
+  ]
+}
