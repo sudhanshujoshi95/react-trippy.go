@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
 
-      <HashRouter>
+      <HashRouter basename='/react-trippy.go'>
         <Routes>
         <Route path="/" element={<Home/>}/>
         <Route path="/about" element={<About/>}/>
